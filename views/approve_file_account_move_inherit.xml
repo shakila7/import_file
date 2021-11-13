@@ -9,7 +9,7 @@
                 <page name="file_info" string="File Info">
                     <form string="Import File">
                         <group>
-                            <field name="file" filename="file_name"/>
+                            <field name="file" filename="file_name" readonly="1"/>
                             <field name="file_name" invisible="1" />
                         </group>
                     </form>
